@@ -1,0 +1,22 @@
+{
+    "name": "assignment_6",
+    "version": "1.0.0",
+    "description": "FSD Assignment 6 - Job Board Platform",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js",
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "express": "^4.21.0",
+      "express-session": "^1.18.0",
+      "mongoose": "^7.0.0",
+      "body-parser": "^1.20.3",
+      "pug": "^3.0.3",
+      "path": "^0.12.7",
+      "pub": "^0.2.0"
+    }
+  }
+  
